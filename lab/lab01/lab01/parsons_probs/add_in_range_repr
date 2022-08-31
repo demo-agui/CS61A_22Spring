@@ -1,0 +1,10 @@
+def add_in_range(start, stop): #0given
+total = !BLANK #1given #blankstart
+while !BLANK <= !BLANK: #1given #blankstart+1 #blankstop
+start += !BLANK #2given #blank1
+total += !BLANK #2given #blankstart
+return total #1given
+print('DEBUG:', !BLANK)
+print('DEBUG:', !BLANK)
+# !BLANK
+# !BLANK

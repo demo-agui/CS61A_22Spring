@@ -1,0 +1,8 @@
+'repeated-correct', (0, 70)
+'merge-correct', (512, 70)
+'add_d_leaves-correct', (1024, 70)
+'subseqs-correct', (1536, 70)
+'non_decrease_subseqs-correct', (2048, 70)
+'shuffle-correct', (2560, 70)
+'pairs-correct', (3072, 70)
+'PairsIterator-correct', (3584, 70)

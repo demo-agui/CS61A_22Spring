@@ -1,0 +1,6 @@
+'reverse_link-correct', (0, 70)
+'label_multiplier-correct', (512, 70)
+'store_digits-correct', (1024, 70)
+'cumulative_mul-correct', (1536, 70)
+'has_cycle_constant-correct', (2048, 70)
+'Link-correct', (2560, 70)

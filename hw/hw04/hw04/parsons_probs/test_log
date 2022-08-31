@@ -1,0 +1,31 @@
+=====================================================================
+Assignment: Homework 4
+OK, version v1.18.1
+=====================================================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running tests
+
+---------------------------------------------------------------------
+Doctests for remove_odd_indices
+
+>>> s = [1, 2, 3, 4]
+>>> t = remove_odd_indices(s, True)
+>>> s
+[1, 2, 3, 4]
+>>> t
+[1, 3]
+>>> l = [5, 6, 7, 8]
+>>> m = remove_odd_indices(l, False)
+>>> m
+[6, 8]
+-- OK! --
+---------------------------------------------------------------------
+Test summary
+    1 test cases passed! No cases failed.
+
+Backup... 0.0% completeBackup... 100% complete
+[31mBackup past deadline by 161 days, 3 hours, 24 minutes, and 1 second[0m
+[32mBackup successful for user: agui939895260@gmail.com[0m
+[32mURL: https://okpy.org/cal/cs61a/sp22/hw04/backups/2grV9P[0m
+

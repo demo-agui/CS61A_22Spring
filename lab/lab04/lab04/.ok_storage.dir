@@ -1,0 +1,5 @@
+'summation-correct', (0, 70)
+'paths-correct', (512, 70)
+'pascal-correct', (1024, 70)
+'line_stepper-correct', (1536, 70)
+'Squared Virahanka Fibonacci-correct', (2048, 70)
